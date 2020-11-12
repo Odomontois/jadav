@@ -1,3 +1,4 @@
 .stack-work/
 jadav.cabal
 *~
+stack.yaml.lock

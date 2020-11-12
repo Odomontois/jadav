@@ -1,0 +1,19 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "jadav:lib"
+
+    - path: "./app/Main.hs"
+      component: "jadav:exe:jadav-exe"
+
+    - path: "./app/Components.hs"
+      component: "jadav:exe:jadav-exe"
+
+    - path: "./app/Lol.hs"
+      component: "jadav:exe:jadav-exe"
+
+    - path: "./app/Paths_jadav.hs"
+      component: "jadav:exe:jadav-exe"
+
+    - path: "./test"
+      component: "jadav:test:jadav-test"

@@ -8,7 +8,6 @@
 
 module MTG where
 
-import           Control.Applicative
 import           Data.Foldable
 import           Data.Kind
 import           Data.Typeable
